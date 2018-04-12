@@ -1,6 +1,3 @@
 function add(a,b){
-  add = `${a}+${b}`;
+  return a+b
 }
-
-add();
-console.log(add);
