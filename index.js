@@ -1,4 +1,3 @@
 function add(){
-  ${a}+${b}
-  return ${c}`
+  add(a+b)
 }
