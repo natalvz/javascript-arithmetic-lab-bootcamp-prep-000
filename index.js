@@ -1,3 +1,3 @@
 function add(){
-  add(a+b).toEqual
+  add(a+b).toEqual(a+b)
 }
