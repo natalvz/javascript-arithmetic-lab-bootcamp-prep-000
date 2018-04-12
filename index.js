@@ -1,4 +1,4 @@
-function add(a,b,c){
+function add(){
   ${a}+${b}
   return ${c}`
 }
